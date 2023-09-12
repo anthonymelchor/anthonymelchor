@@ -3,7 +3,7 @@ I am a Systems Engineer with a Master's degree in the management and analysis of
 
 ## Skills:
 
-![AWS](https://img.shields.io/badge/Amazon_Web_Service-black?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-black?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)
 ![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 ![Php ](https://img.shields.io/badge/PHP-9146FF?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)
 ![C# ](https://img.shields.io/badge/.NET-5865F2?style=for-the-badge&logo=.NET&logoColor=white&labelColor=101010)

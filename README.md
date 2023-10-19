@@ -1,5 +1,5 @@
 # 👋 Hi, my name is Anthony Melchor
-I am a Systems Engineer with a Master's degree in the management and analysis of big data. I am also an AWS Solutions Architect with extensive experience in web platform and microservices development. I am passionate, a critical thinker, and a researcher. I possess excellent interpersonal skills and can mentor individuals and organizations in identifying digital solution opportunities, conducting systems analysis, and overseeing development.
+I am an experienced Python developer with strong problem-solving skills and attention to detail. I have a strong focus on designing, developing, and maintaining RESTful APIs using Python and related frameworks, such as Flask. I hold a Master's degree in Big Data Management and Analysis and hold certification as an AWS Solutions Architect. With over six years of experience as a software developer, I have contributed to various projects that have improved the performance, scalability, and security of web platforms and microservices. I am passionate about finding innovative solutions to complex problems and enjoy collaborating with diverse teams and clients. My goal is to leverage my skills and knowledge to create value and impact in the digital world. I am always eager to learn new technologies and methodologies and apply them to real-world scenarios.
 
 ## Skills:
 
